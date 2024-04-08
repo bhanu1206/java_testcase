@@ -1,0 +1,10 @@
+requests
+openai
+javalang
+GitPython
+flask
+flask_sqlalchemy
+Flask-JWT-Extended
+flask_restful
+flask_cors
+python-dotenv
